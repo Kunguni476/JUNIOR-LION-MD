@@ -27,7 +27,7 @@
 
   
 
-<a href="https://github.com/Viniznimco/JUNIOR-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK DÉ JÚÑÍÓÚR" width="150"></a>
+<a href="https://github.com/Ibraahtech254/JUNIOR-LION-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK DÉ JÚÑÍÓÚR" width="150"></a>
 
 
 <a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
@@ -40,7 +40,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Viniznimco/JUNIOR-MD&template=https://github.com/Viniznimco/JUNIOR-MD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Ibraahtech254/JUNIOR-LION-MD.git)***
 
 <br>
 
@@ -85,7 +85,7 @@
 ### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
 [![Stargazers repo roster for @SNAPDRAGON/JUNIOR-MD](http://reporoster.com/stars/dark/Snapdragon/JUNIOR-MD)](https://github.com/Viniznimco/JUNIOR-MD/stargazers)
      
-[![Forkers repo roster for @SNAPDRAGON/JUNIOR-MD](http://reporoster.com/forks/dark/SNAPDRAGON/JUNIOR-MD)](https://github.com/Viniznimco/JUNIOR-MD/network/members)
+[![Forkers repo roster for @SNAPDRAGON/JUNIOR-MD](http://reporoster.com/forks/dark/SNAPDRAGON/JUNIOR-MD)](https://github.com/Ibraahtech254/JUNIOR-LION-MD/network/members)
 
 Enjoy the diverse features of DE JUNIOR-𝐌𝐃  to enhance your Whatsapp more enjoyable
 
