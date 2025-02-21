@@ -40,7 +40,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Ibraahtech254/JUNIOR-LION-MD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Ibraahtech254/JUNIOR-LION-MD)***
 
 <br>
 
@@ -51,7 +51,7 @@
 **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
 <details>
 <summary>CLICK FOR MORE</summary>
-<a href="https://github.com/Viniznimco/JUNIOR-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/Ibraahtech254/JUNIOR-LION-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
@@ -83,7 +83,7 @@
    <a><img src='https://whatsapp.com/channel/0029Vb3JJ9gKwqSJQJfQvl1K'/></a>
 
 ### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
-[![Stargazers repo roster for @SNAPDRAGON/JUNIOR-MD](http://reporoster.com/stars/dark/Snapdragon/JUNIOR-MD)](https://github.com/Viniznimco/JUNIOR-MD/stargazers)
+[![Stargazers repo roster for @SNAPDRAGON/JUNIOR-MD](http://reporoster.com/stars/dark/Snapdragon/JUNIOR-MD)](https://github.com/Ibraahtech254/JUNIOR-LION-MD/stargazers)
      
 [![Forkers repo roster for @SNAPDRAGON/JUNIOR-MD](http://reporoster.com/forks/dark/SNAPDRAGON/JUNIOR-MD)](https://github.com/Ibraahtech254/JUNIOR-LION-MD/network/members)
 
